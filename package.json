@@ -10,8 +10,8 @@
     "dependencies": {
         "@useparagon/connect": "^1.0.3",
         "classnames": "^2.2.6",
-        "jsonwebtoken": "^8.5.1",
-        "next": "^12.1.5",
+        "jsonwebtoken": "^9.0.2",
+        "next": "^15.0.0",
         "react": "^18.0.0",
         "react-dom": "^18.0.0",
         "todomvc-app-css": "^2.3.0",
